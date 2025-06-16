@@ -1,0 +1,984 @@
+{
+  "visuals": [
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_base_link_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_base_link_1_Body1"
+      },
+      "name": "mesh_base_link",
+      "origin": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_base_link"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link1_motor_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link1_motor_1_Body1"
+      },
+      "name": "mesh_link1_motor",
+      "origin": {
+        "position": [
+          0.0,
+          0.0,
+          -0.02630000188946724
+        ],
+        "relative_to": "link1_motor",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link1_motor"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link1_1_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link1_1_1_Body1"
+      },
+      "name": "mesh_link1_1",
+      "origin": {
+        "position": [
+          0.0,
+          0.0,
+          -0.07700000703334808
+        ],
+        "relative_to": "link1_1",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link1_1"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link1_2_1_Body2.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link1_2_1_Body2"
+      },
+      "name": "mesh_link1_2",
+      "origin": {
+        "position": [
+          0.0,
+          0.0,
+          -0.09200000762939453
+        ],
+        "relative_to": "link1_2",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link1_2"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link2_motor_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link2_motor_1_Body1"
+      },
+      "name": "mesh_link2_motor",
+      "origin": {
+        "position": [
+          0.0,
+          0.0,
+          -0.1510000079870224
+        ],
+        "relative_to": "link2_motor",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link2_motor"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link2_1_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link2_1_1_Body1"
+      },
+      "name": "mesh_link2_1",
+      "origin": {
+        "position": [
+          -0.009000000543892384,
+          0.0,
+          -0.1510000079870224
+        ],
+        "relative_to": "link2_1",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link2_1"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link2_PLA_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link2_PLA_1_Body1"
+      },
+      "name": "mesh_link2_2",
+      "origin": {
+        "position": [
+          -0.024000000208616257,
+          0.0,
+          -0.1510000079870224
+        ],
+        "relative_to": "link2_2",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link2_2"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link2_7_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link2_7_1_Body1"
+      },
+      "name": "mesh_link2_3",
+      "origin": {
+        "position": [
+          -0.0990000069141388,
+          0.0,
+          -0.281000018119812
+        ],
+        "relative_to": "link2_3",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link2_3"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link3_motor_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link3_motor_1_Body1"
+      },
+      "name": "mesh_link3_motor",
+      "origin": {
+        "position": [
+          -0.0990000069141388,
+          0.0,
+          -0.3020000159740448
+        ],
+        "relative_to": "link3_motor",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link3_motor"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link3_1_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link3_1_1_Body1"
+      },
+      "name": "mesh_link3_1",
+      "origin": {
+        "position": [
+          -0.0990000069141388,
+          0.0,
+          -0.34105002880096436
+        ],
+        "relative_to": "link3_1",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link3_1"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link3_2_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link3_2_1_Body1"
+      },
+      "name": "mesh_link3_2",
+      "origin": {
+        "position": [
+          -0.0990000069141388,
+          0.0,
+          -0.3560500144958496
+        ],
+        "relative_to": "link3_2",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link3_2"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link4_motor_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link4_motor_1_Body1"
+      },
+      "name": "mesh_link4_motor",
+      "origin": {
+        "position": [
+          -0.10300000756978989,
+          0.0,
+          -0.41065001487731934
+        ],
+        "relative_to": "link4_motor",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link4_motor"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link4_1_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link4_1_1_Body1"
+      },
+      "name": "mesh_link4_1",
+      "origin": {
+        "position": [
+          -0.09650000184774399,
+          0.0,
+          -0.41065001487731934
+        ],
+        "relative_to": "link4_1",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link4_1"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link4_PLA_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link4_PLA_1_Body1"
+      },
+      "name": "mesh_link4_2",
+      "origin": {
+        "position": [
+          -0.08150000125169754,
+          0.0,
+          -0.41065001487731934
+        ],
+        "relative_to": "link4_2",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link4_2"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link4_7_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link4_7_1_Body1"
+      },
+      "name": "mesh_link4_3",
+      "origin": {
+        "position": [
+          -0.006500000134110451,
+          0.0,
+          -0.5106500387191772
+        ],
+        "relative_to": "link4_3",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link4_3"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link5_motor_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link5_motor_1_Body1"
+      },
+      "name": "mesh_link5_motor",
+      "origin": {
+        "position": [
+          -0.006500000134110451,
+          0.0,
+          -0.5306500196456909
+        ],
+        "relative_to": "link5_motor",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link5_motor"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link5_1_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link5_1_1_Body1"
+      },
+      "name": "mesh_link5_1",
+      "origin": {
+        "position": [
+          -0.006500000134110451,
+          0.0,
+          -0.5596500039100647
+        ],
+        "relative_to": "link5_1",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link5_1"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link5_2_1_Body2.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link5_2_1_Body2"
+      },
+      "name": "mesh_link5_2",
+      "origin": {
+        "position": [
+          -0.006500000134110451,
+          0.0,
+          -0.5796500444412231
+        ],
+        "relative_to": "link5_2",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link5_2"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link6_motor_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link6_motor_1_Body1"
+      },
+      "name": "mesh_link6_motor",
+      "origin": {
+        "position": [
+          -0.010000000707805157,
+          0.0,
+          -0.6291500329971313
+        ],
+        "relative_to": "link6_motor",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link6_motor"
+    },
+    {
+      "geometry": {
+        "exported": {
+          "stl": {
+            "export_operation": "blender_export",
+            "filepath": "..\\meshes\\stl\\1_my_robot v2_link6_1_1_Body1.stl",
+            "operations": [
+              {
+                "scale": [
+                  [
+                    0.0010000000474974513,
+                    0.0010000000474974513,
+                    0.0010000000474974513
+                  ]
+                ]
+              },
+              "_initiated_in_blender"
+            ]
+          }
+        },
+        "geometry_type": "mesh",
+        "imported": "input file not known",
+        "mesh_orientation": {
+          "forward": "Y",
+          "up": "Z"
+        },
+        "scale": [
+          0.0010000000474974513,
+          0.0010000000474974513,
+          0.0010000000474974513
+        ],
+        "unique_name": "1_my_robot v2_link6_1_1_Body1"
+      },
+      "name": "mesh_link6_1",
+      "origin": {
+        "position": [
+          -0.012000000104308128,
+          0.0,
+          -0.6291500329971313
+        ],
+        "relative_to": "link6_1",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "original_name": "mesh_link6_1"
+    }
+  ]
+}

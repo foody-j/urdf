@@ -1,0 +1,404 @@
+{
+  "links": [
+    {
+      "name": "base_link",
+      "originRoot": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_base_link"
+      ]
+    },
+    {
+      "name": "link1_motor",
+      "originRoot": {
+        "position": [
+          8.098457460192776e-10,
+          -2.4035065049332616e-09,
+          0.02630000188946724
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link1_motor"
+      ]
+    },
+    {
+      "name": "link1_1",
+      "originRoot": {
+        "position": [
+          8.098457460192776e-10,
+          -2.4035065049332616e-09,
+          0.07700000703334808
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link1_1"
+      ]
+    },
+    {
+      "name": "link1_2",
+      "originRoot": {
+        "position": [
+          8.098457460192776e-10,
+          -2.4035065049332616e-09,
+          0.09200000762939453
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link1_2"
+      ]
+    },
+    {
+      "name": "link2_motor",
+      "originRoot": {
+        "position": [
+          8.098457460192776e-10,
+          -2.4035065049332616e-09,
+          0.1510000079870224
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link2_motor"
+      ]
+    },
+    {
+      "name": "link2_1",
+      "originRoot": {
+        "position": [
+          0.00900000135373813,
+          -2.4035065049332616e-09,
+          0.1510000079870224
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link2_1"
+      ]
+    },
+    {
+      "name": "link2_2",
+      "originRoot": {
+        "position": [
+          0.024000001018462003,
+          -2.4035065049332616e-09,
+          0.1510000079870224
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link2_2"
+      ]
+    },
+    {
+      "name": "link2_3",
+      "originRoot": {
+        "position": [
+          0.09900000772398454,
+          -2.4035065049332616e-09,
+          0.281000018119812
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link2_3"
+      ]
+    },
+    {
+      "name": "link3_motor",
+      "originRoot": {
+        "position": [
+          0.09900000772398454,
+          -2.4035065049332616e-09,
+          0.3020000159740448
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link3_motor"
+      ]
+    },
+    {
+      "name": "link3_1",
+      "originRoot": {
+        "position": [
+          0.09900000772398454,
+          -2.4035065049332616e-09,
+          0.34105002880096436
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link3_1"
+      ]
+    },
+    {
+      "name": "link3_2",
+      "originRoot": {
+        "position": [
+          0.09900000772398454,
+          -2.4035065049332616e-09,
+          0.3560500144958496
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link3_2"
+      ]
+    },
+    {
+      "name": "link4_motor",
+      "originRoot": {
+        "position": [
+          0.10300000837963563,
+          -2.4035065049332616e-09,
+          0.41065001487731934
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link4_motor"
+      ]
+    },
+    {
+      "name": "link4_1",
+      "originRoot": {
+        "position": [
+          0.09650000265758973,
+          -2.4035065049332616e-09,
+          0.41065001487731934
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link4_1"
+      ]
+    },
+    {
+      "name": "link4_2",
+      "originRoot": {
+        "position": [
+          0.08150000206154329,
+          -2.4035065049332616e-09,
+          0.41065001487731934
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link4_2"
+      ]
+    },
+    {
+      "name": "link4_3",
+      "originRoot": {
+        "position": [
+          0.006500000943956197,
+          -2.4035065049332616e-09,
+          0.5106500387191772
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link4_3"
+      ]
+    },
+    {
+      "name": "link5_motor",
+      "originRoot": {
+        "position": [
+          0.006500000943956197,
+          -2.4035065049332616e-09,
+          0.5306500196456909
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link5_motor"
+      ]
+    },
+    {
+      "name": "link5_1",
+      "originRoot": {
+        "position": [
+          0.006500000943956197,
+          -2.4035065049332616e-09,
+          0.5596500039100647
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link5_1"
+      ]
+    },
+    {
+      "name": "link5_2",
+      "originRoot": {
+        "position": [
+          0.006500000943956197,
+          -2.4035065049332616e-09,
+          0.5796500444412231
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link5_2"
+      ]
+    },
+    {
+      "name": "link6_motor",
+      "originRoot": {
+        "position": [
+          0.010000001517650903,
+          -2.4035065049332616e-09,
+          0.6291500329971313
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link6_motor"
+      ]
+    },
+    {
+      "name": "link6_1",
+      "originRoot": {
+        "position": [
+          0.012000000914153874,
+          -2.4035065049332616e-09,
+          0.6291500329971313
+        ],
+        "relative_to": "base_link",
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "scale": 1.0,
+      "visuals": [
+        "mesh_link6_1"
+      ]
+    }
+  ]
+}
